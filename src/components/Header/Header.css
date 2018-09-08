@@ -1,0 +1,23 @@
+#instructions{
+    position: relative;
+    left: 300px;
+}
+
+#score{
+    position: fixed;
+    right: 17%
+}
+
+#top-score{
+    position: fixed;
+    right: 5%
+}
+nav{
+    background-color: #3399ff;
+    color: white;
+    box-shadow:3px 3px 5px 6px #274e75
+}
+
+#button{
+    color: white;
+}

@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1",
+        "name": "Kobe",
+        "image": "http://hotcountry1035.com/wp-content/uploads/2016/04/kobe-b.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Shaq",
+        "image": "http://www.impulsegamer.com/dvd/shaq02.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Magic",
+        "image": "http://www.photofile.com/Original/AA/OB/aaob042.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Kareem",
+        "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=http://hoopshabit.com/wp-content/uploads/getty-images/2016/03/87924212-los-angeles-lakers-kareem-abdul-jabbar-1981-nba-western-conference-quarterfinals-850x560.jpg&c=sc&w=590&h=389"
+    },
+    {
+        "id": "5",
+        "name": "Jerry",
+        "image": "https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2018/07/10/jerry-west-main-marquee.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Wilt",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkk9fg8ZLUBeXrwbKY_qkCHPGva15RyKBJZocXeO7CfGVpTbM57Q"
+    },
+    {
+        "id": "7",
+        "name": "Worthy",
+        "image": "https://s22928.pcdn.co/wp-content/uploads/2018/04/James-Worthy.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Goodrich",
+        "image": "https://s22928.pcdn.co/wp-content/uploads/2018/05/Gail-Goodrich-640x460.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Byron",
+        "image": "http://cdn.bleacherreport.net/images_root/slides/photos/000/562/900/241654_display_image.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Coop",
+        "image": "http://a.espncdn.com/photo/2013/1021/la_50greats_12.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Fish",
+        "image": "https://s22928.pcdn.co/wp-content/uploads/2018/03/Derek-Fisher-640x410.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Pau",
+        "image": "http://www.sportsoutwest.com/wp-content/uploads/2013/10/pau-gasol-lakers.jpg"
+    }
+]
+
+
