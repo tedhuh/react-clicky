@@ -15,8 +15,10 @@ const Header = (props) => (
         <div class="navbar-nav">
           <a class="nav-item nav-link active " href="/" id="button"><h3>Clicky Game</h3> <span class="sr-only">(current)</span></a></div>
         <a class="nav-item nav-link active" id="instructions" ><h3>Click an Image to Begin</h3> <span class="sr-only">(current)</span></a>
-        <ul id="score">Score: {props.score}</ul>
-        <ul id="top-score">Top Score: {props.topScore}</ul>
+        <a class="nav-item nav-link active" id="score" ><h3>Score:{props.score}</h3> <span class="sr-only"></span></a>
+        <a class="nav-item nav-link active" id="top-score" ><h3>Top Score:{props.topScore}</h3> <span class="sr-only"></span></a>
+
+
 
 
       </div>

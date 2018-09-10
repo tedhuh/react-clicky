@@ -5,9 +5,9 @@ import "./Section.css";
 
 
 const Section = (props) => (
-    <div>
-        <container className = "section">
-        </container>
+    <div className="container-fluid">
+    
+       
     </div>
 )
 
